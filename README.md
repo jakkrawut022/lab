@@ -1,2 +1,2 @@
-# lab
+# lab 2
 for study
